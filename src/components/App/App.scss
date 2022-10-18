@@ -1,0 +1,32 @@
+.container {
+    margin: auto 150px;
+    padding-top: 67px;
+    padding-bottom: 200px;
+}
+
+@media (max-width: 1200px) {
+    .container {
+        margin: auto 100px;
+        padding-top: 50px;
+    }
+}
+
+@media (max-width: 825px) {
+    .container {
+        margin: auto 40px;
+        padding-top: 40px;
+    }
+}
+
+@media (max-width: 550px) {
+    .container {
+        margin: auto 20px;
+        padding-top: 26px;
+    }
+}
+
+@media (max-width: 400px) {
+    .container {
+        margin: auto 17px;
+    }
+}

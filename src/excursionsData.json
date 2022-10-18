@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "nameImage": "Excursion1.png",
+    "status": "НОВИНКА",
+    "statusColor": "blue",
+    "title": "Обзорная экскурсия по рекам и каналам с остановками Hop on Hop Off 2020",
+    "duration": "1 час 40 минут",
+    "timeExit": [
+      "10:00",
+      "11:00",
+      "13:00"
+    ],
+    "price": 1500,
+    "priceJetty": 1800
+  },
+  {
+    "id": 2,
+    "nameImage": "Excursion2.png",
+    "status": "КРУГЛЫЙ ГОД",
+    "statusColor": "yellow",
+    "title": "Прогулка по каналам Петербурга «Северная Венеция»",
+    "duration": "от 35 до 40 минут",
+    "timeExit": [
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00"
+    ],
+    "price": 900
+  },
+  {
+    "id": 3,
+    "nameImage": "Excursion3.png",
+    "title": "Прогулка по Неве с выходом в Финский залив 2022",
+    "duration": "1 час 15 минут",
+    "timeExit": [
+      "10:00",
+      "12:00",
+      "15:00",
+      "17:00"
+    ],
+    "price": 1100,
+    "priceJetty": 1300
+  },
+  {
+    "id": 4,
+    "nameImage": "Excursion4.png",
+    "status": "НОВИНКА",
+    "statusColor": "violet",
+    "statusLocation": "top",
+    "title": "Индивидуальная прогулка по рекам и каналам на катере Blueberry",
+    "duration": "1 час 45 минут",
+    "timeExit": [
+      "10:00",
+      "12:00",
+      "13:00",
+      "15:00",
+      "17:00",
+      "19:00"
+    ],
+    "price": 1900
+  }
+]

@@ -1,0 +1,13 @@
+@import "../src/components/libs/_normalize.scss";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+
+
+
+body {
+  margin: 0 auto;
+  max-width: 1440px;
+  box-shadow: 5px 10px 10px rgb(170, 170, 170);
+  background-color: #ffffff;
+}
+
